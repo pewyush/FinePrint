@@ -1,0 +1,71 @@
+MegaMart — Full Terms of Service (saved excerpt, test input 13, EDGE: long document, multiple chunks)
+
+ShopEasy — Terms of Use (saved excerpt, test input 1)
+
+By using ShopEasy you agree to these terms. We may change these terms at any time without notice, and continued use means you accept the new terms.
+
+Your subscription renews automatically every month until you cancel. Cancellations must be submitted through our support form within 14 days of renewal.
+
+Any dispute shall be resolved by binding arbitration on an individual basis, and you waive the right to participate in a class action lawsuit.
+
+To the maximum extent permitted by law, ShopEasy's total liability for any claim arising out of the service is limited to the amount you paid in the 12 months before the claim.
+
+We may share your account details with advertising partners and analytics vendors for targeted advertising purposes.
+
+You are responsible for maintaining the confidentiality of your password. ShopEasy may suspend or terminate accounts that violate these terms, at our sole discretion and without prior notice.
+
+Refunds are issued only within 30 days of purchase and only for unopened digital goods.
+StreamVault — Terms of Service (saved excerpt, test input 3)
+
+Your StreamVault subscription bills monthly in advance and renews automatically on the same date each month until you cancel. You can cancel any time in account settings; cancellation takes effect at the end of the current billing period and we do not refund partial months.
+
+Prices may change with 30 days notice. If you do not agree to a price change you may cancel before the new price takes effect.
+
+We may remove content from the library at any time and we do not guarantee that any title will remain available.
+
+Your right to use StreamVault terminates automatically if you breach these terms. We may also terminate your account for suspected fraud, in which case remaining fees are forfeited.
+
+Any dispute between you and StreamVault will be settled exclusively by the courts of Singapore, and you consent to personal jurisdiction there.
+
+To the fullest extent permitted by law StreamVault's aggregate liability is limited to the fees you paid in the 6 months preceding the claim.
+FitPulse — Terms and Conditions (saved excerpt, test input 4)
+
+FitPulse collects your workout logs, heart rate data, sleep data and, if you connect a health account, your medical-activity records. This data is shared with our analytics provider and with research partners in aggregated form.
+
+By using FitPulse you agree that any dispute shall be resolved by binding arbitration and you waive the right to a jury trial or to join a class action.
+
+If you cancel your annual plan we keep 25% of the remaining months as an administrative fee.
+
+We may update these terms at any time. Your continued use after the update constitutes acceptance.
+
+FitPulse is not a medical device and does not provide medical advice. To the maximum extent permitted by law FitPulse is not liable for decisions you make based on your workout data.
+
+You can delete your account at any time from settings, but aggregated statistics derived from your data cannot be removed.
+BidBarn Marketplace — Refund and Cancellation Policy (saved excerpt, test input 5)
+
+You may cancel an order before it ships and receive a full refund. Once an order has shipped, refunds are only available for items that arrive damaged, and you must report damage within 48 hours of delivery.
+
+For digital items, all sales are final and no refunds are given once the download link has been opened.
+
+Sellers set their own return windows between 7 and 30 days. BidBarn is not a party to the sale contract between you and the seller.
+
+If we cancel your listing we may withhold pending payouts for up to 90 days to cover chargebacks and disputes.
+
+Monthly subscription fees for BidBarn Seller Pro renew automatically until cancelled. Cancellation must be done at least 3 days before the renewal date.
+
+We may change these refund rules at any time by posting the updated version on this page.
+CloudKit SaaS — Master Terms (saved excerpt, test input 6)
+
+We may modify these terms at any time by updating this page, and your continued use of the service constitutes acceptance of the modified terms.
+
+The service is provided "as is" without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose and non-infringement.
+
+In no event shall CloudKit be liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of profits, data or goodwill, even if advised of the possibility of such damages.
+
+Our aggregate liability for all claims in any 12-month period shall not exceed the total fees paid by you in that period.
+
+You grant CloudKit a worldwide, royalty-free license to host, store, reproduce and display the content you upload, for the purpose of operating and improving the service.
+
+Either party may terminate this agreement for convenience with 30 days written notice. Upon termination we delete your data within 60 days, except where retention is required by law.
+
+Fees are non-refundable except where required by law.

@@ -1,0 +1,65 @@
+{
+  "title": "08_loudsite_allcaps",
+  "url": "local://08_loudsite_allcaps",
+  "summary": "This site signs you up for a monthly subscription that keeps renewing unless you cancel, and you can’t cancel or get a refund in the first 30 days. If you have a problem, you must settle it through private arbitration and can’t join a class-action lawsuit. The company can share your personal data with advertisers and can change the rules whenever they want, and they limit how much they’ll pay you if something goes wrong.",
+  "keyPoints": [
+    "Your subscription renews automatically every month.",
+    "You cannot cancel within the first 30 days and won’t get a refund.",
+    "Disputes must be resolved by binding arbitration, not a court or class action.",
+    "Your personal information may be shared with advertising and analytics partners.",
+    "The company can change the terms at any time without notice."
+  ],
+  "risks": [
+    {
+      "category": "auto_renewal",
+      "severity": "high",
+      "clauseQuote": "YOUR SUBSCRIPTION RENEWS AUTOMATICALLY EVERY MONTH UNTIL YOU CANCEL",
+      "explanation": "If you forget to cancel, the company will keep charging you each month.",
+      "grounded": true
+    },
+    {
+      "category": "cancellation",
+      "severity": "high",
+      "clauseQuote": "YOU MAY NOT CANCEL WITHIN THE FIRST 30 DAYS AND NO REFUNDS ARE GIVEN FOR ANY REASON EXCEPT WHERE REQUIRED BY LAW.",
+      "explanation": "You can’t stop the service for the first month and you won’t get your money back if you change your mind.",
+      "grounded": true
+    },
+    {
+      "category": "arbitration",
+      "severity": "medium",
+      "clauseQuote": "ALL DISPUTES SHALL BE RESOLVED BY BINDING ARBITRATION ON AN INDIVIDUAL BASIS AND YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT.",
+      "explanation": "You must settle any problem in private arbitration and cannot join a group lawsuit, which limits your legal options.",
+      "grounded": true
+    },
+    {
+      "category": "data_sharing",
+      "severity": "medium",
+      "clauseQuote": "WE MAY SHARE YOUR PERSONAL INFORMATION WITH ADVERTISING PARTNERS AND ANALYTICS VENDORS.",
+      "explanation": "Your personal info could be given to ad companies that might target you with ads.",
+      "grounded": true
+    },
+    {
+      "category": "liability",
+      "severity": "medium",
+      "clauseQuote": "OUR TOTAL LIABILITY FOR ANY CLAIM IS LIMITED TO THE AMOUNT YOU PAID IN THE THREE MONTHS BEFORE THE CLAIM.",
+      "explanation": "If something goes wrong, the most the company will pay you is what you spent in the last three months.",
+      "grounded": true
+    },
+    {
+      "category": "unbounded_changes",
+      "severity": "medium",
+      "clauseQuote": "WE MAY CHANGE THESE TERMS AT ANY TIME WITHOUT NOTICE AND CONTINUED USE MEANS YOU ACCEPT THE CHANGES.",
+      "explanation": "The rules can be altered whenever they want, and just using the site means you agree to the new rules.",
+      "grounded": true
+    }
+  ],
+  "notMentioned": [
+    "other"
+  ],
+  "chunkCount": 1,
+  "failedChunks": 0,
+  "droppedUngrounded": 0,
+  "fetchedChars": 819,
+  "mergedLocally": false,
+  "disclaimer": "This is an automated plain-language summary, not legal advice. Check the original document for anything that matters to you."
+}

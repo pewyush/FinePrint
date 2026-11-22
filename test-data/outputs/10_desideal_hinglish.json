@@ -1,0 +1,53 @@
+{
+  "title": "10_desideal_hinglish",
+  "url": "local://10_desideal_hinglish",
+  "summary": "The agreement sets up a monthly subscription that automatically renews unless you cancel it. You must ask to cancel within 24 hours, and the company may share your data with advertising partners. They can change the terms whenever they want, and any disputes will be handled in Delhi courts.",
+  "keyPoints": [
+    "Subscription renews automatically each month.",
+    "You must request a cancellation within 24 hours.",
+    "Your personal data may be shared with advertising partners.",
+    "The company can change the terms at any time.",
+    "Disputes will be settled in Delhi courts."
+  ],
+  "risks": [
+    {
+      "category": "auto_renewal",
+      "severity": "high",
+      "clauseQuote": "Your subscription har mahine automatically renew hoti hai jab tak aap cancel na karein.",
+      "explanation": "If you forget to cancel, the service will keep charging you every month.",
+      "grounded": true
+    },
+    {
+      "category": "cancellation",
+      "severity": "medium",
+      "clauseQuote": "Aapka order cancel karne ke liye 24 ghante ke andar request karni hogi.",
+      "explanation": "You have only 24 hours to ask for a cancellation, otherwise you may lose the chance to cancel.",
+      "grounded": true
+    },
+    {
+      "category": "data_sharing",
+      "severity": "medium",
+      "clauseQuote": "Hum aapka data advertising partners ke saath share kar sakte hain.",
+      "explanation": "Your personal info might be given to ad companies, which could target you with ads.",
+      "grounded": true
+    },
+    {
+      "category": "unbounded_changes",
+      "severity": "medium",
+      "clauseQuote": "Hum terms kabhi bhi change kar sakte hain. Continued use means you accept the new terms.",
+      "explanation": "The company can change the rules whenever it wants, and if you keep using the service you’re agreeing to the new rules.",
+      "grounded": true
+    }
+  ],
+  "notMentioned": [
+    "arbitration",
+    "liability",
+    "other"
+  ],
+  "chunkCount": 1,
+  "failedChunks": 0,
+  "droppedUngrounded": 0,
+  "fetchedChars": 592,
+  "mergedLocally": false,
+  "disclaimer": "This is an automated plain-language summary, not legal advice. Check the original document for anything that matters to you."
+}

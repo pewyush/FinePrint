@@ -1,0 +1,80 @@
+{
+  "title": "13_long_multichunk_terms",
+  "url": "local://13_long_multichunk_terms",
+  "summary": "This document sets the rules for several online services, including how they can change the terms, automatically renew subscriptions, limit their liability, share your data, and handle disputes. Watch out for automatic renewals, rule changes without notice, limited refunds, and the fact that disputes go to arbitration instead of court.",
+  "keyPoints": [
+    "The service can change its rules at any time without telling you; continuing to use it means you accept the new rules.",
+    "Your subscription renews each month automatically, so you must cancel early to stop future charges.",
+    "The company limits how much it will pay you for problems, usually only what you’ve paid in the past year.",
+    "Disputes are settled by arbitration, not court, and you cannot join a class-action lawsuit.",
+    "Your account information may be shared with advertising partners for targeted ads."
+  ],
+  "risks": [
+    {
+      "category": "unbounded_changes",
+      "severity": "high",
+      "clauseQuote": "We may change these terms at any time without notice, and continued use means you accept the new terms.",
+      "explanation": "The company can alter the rules whenever it wants, and if you keep using the service you automatically agree to the new rules.",
+      "grounded": true
+    },
+    {
+      "category": "auto_renewal",
+      "severity": "high",
+      "clauseQuote": "Your subscription renews automatically every month until you cancel.",
+      "explanation": "If you forget to cancel, you will keep getting charged each month.",
+      "grounded": true
+    },
+    {
+      "category": "liability",
+      "severity": "high",
+      "clauseQuote": "ShopEasy's total liability for any claim arising out of the service is limited to the amount you paid in the 12 months before the claim.",
+      "explanation": "The company can only pay back what you spent in the past year, even if the issue is bigger.",
+      "grounded": true
+    },
+    {
+      "category": "auto_renewal",
+      "severity": "high",
+      "clauseQuote": "Monthly subscription fees for BidBarn Seller Pro renew automatically until cancelled.",
+      "explanation": "Your subscription will keep charging each month unless you actively cancel it.",
+      "grounded": true
+    },
+    {
+      "category": "liability",
+      "severity": "high",
+      "clauseQuote": "In no event shall CloudKit be liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of profits, data or goodwill, even if advised of the possibility of such damages.",
+      "explanation": "The company won’t have to pay you for many kinds of harm, even if they caused it.",
+      "grounded": true
+    },
+    {
+      "category": "liability",
+      "severity": "high",
+      "clauseQuote": "Our aggregate liability for all claims in any 12-month period shall not exceed the total fees paid by you in that period.",
+      "explanation": "The most money you could ever get back from the company in a year is the amount you paid them.",
+      "grounded": true
+    },
+    {
+      "category": "arbitration",
+      "severity": "medium",
+      "clauseQuote": "Any dispute shall be resolved by binding arbitration on an individual basis, and you waive the right to participate in a class action lawsuit.",
+      "explanation": "If you have a problem, you must go to arbitration instead of a court and you can’t join a group lawsuit.",
+      "grounded": true
+    },
+    {
+      "category": "data_sharing",
+      "severity": "medium",
+      "clauseQuote": "We may share your account details with advertising partners and analytics vendors for targeted advertising purposes.",
+      "explanation": "Your personal info could be given to ad companies that might contact you with ads.",
+      "grounded": true
+    }
+  ],
+  "notMentioned": [
+    "cancellation",
+    "other"
+  ],
+  "chunkCount": 2,
+  "failedChunks": 0,
+  "droppedUngrounded": 0,
+  "fetchedChars": 5183,
+  "mergedLocally": false,
+  "disclaimer": "This is an automated plain-language summary, not legal advice. Check the original document for anything that matters to you."
+}

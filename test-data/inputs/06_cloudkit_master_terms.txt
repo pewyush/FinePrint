@@ -1,0 +1,15 @@
+CloudKit SaaS — Master Terms (saved excerpt, test input 6)
+
+We may modify these terms at any time by updating this page, and your continued use of the service constitutes acceptance of the modified terms.
+
+The service is provided "as is" without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose and non-infringement.
+
+In no event shall CloudKit be liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of profits, data or goodwill, even if advised of the possibility of such damages.
+
+Our aggregate liability for all claims in any 12-month period shall not exceed the total fees paid by you in that period.
+
+You grant CloudKit a worldwide, royalty-free license to host, store, reproduce and display the content you upload, for the purpose of operating and improving the service.
+
+Either party may terminate this agreement for convenience with 30 days written notice. Upon termination we delete your data within 60 days, except where retention is required by law.
+
+Fees are non-refundable except where required by law.

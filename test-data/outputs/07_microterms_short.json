@@ -1,0 +1,34 @@
+{
+  "title": "07_microterms_short",
+  "url": "local://07_microterms_short",
+  "summary": "This short agreement says the company can close your account whenever it wants and keep any money you paid. That means you could lose the money with no refund. You should read the terms carefully before using the service. Watch out for the company’s power to delete your account at any time.",
+  "keyPoints": [
+    "The company may delete your account at any time for any reason.",
+    "If they delete your account, they keep any money you have paid.",
+    "You have no guarantee of a refund if the account is closed.",
+    "Read the terms before paying or using the service."
+  ],
+  "risks": [
+    {
+      "category": "liability",
+      "severity": "high",
+      "clauseQuote": "We can delete your account at any time for any reason and keep your money.",
+      "explanation": "They could shut down your account and not return any money you paid, so you might lose that money.",
+      "grounded": true
+    }
+  ],
+  "notMentioned": [
+    "data_sharing",
+    "auto_renewal",
+    "arbitration",
+    "cancellation",
+    "unbounded_changes",
+    "other"
+  ],
+  "chunkCount": 1,
+  "failedChunks": 0,
+  "droppedUngrounded": 0,
+  "fetchedChars": 153,
+  "mergedLocally": false,
+  "disclaimer": "This is an automated plain-language summary, not legal advice. Check the original document for anything that matters to you."
+}

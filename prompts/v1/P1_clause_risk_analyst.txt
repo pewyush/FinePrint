@@ -1,0 +1,14 @@
+P1 v1 — first attempt (starting point)
+Purpose: per-chunk analysis of a policy document.
+Tool/model: Groq API (OpenAI-compatible) — openai/gpt-oss-120b
+Settings: default (no temperature set → provider default)
+
+=== SYSTEM PROMPT ===
+(none)
+
+=== USER PROMPT ===
+Evaluate this terms of service text and list the problems.
+
+<untrusted_document>
+{chunkText}
+</untrusted_document>

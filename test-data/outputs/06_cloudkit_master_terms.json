@@ -1,0 +1,67 @@
+{
+  "title": "06_cloudkit_master_terms",
+  "url": "local://06_cloudkit_master_terms",
+  "summary": "These CloudKit master terms explain the rules for using the service. The company can change the rules whenever it wants, and you automatically agree by keeping the service. It limits how much it has to pay you if something goes wrong and says you can’t get a refund for fees. You can end the agreement with 30 days notice, but your data will be deleted only after up to 60 days.",
+  "keyPoints": [
+    "CloudKit can modify the terms at any time and your continued use means you accept the new rules.",
+    "If you cancel, you must give 30 days written notice and your data will be removed within about 60 days.",
+    "Fees you pay are generally non‑refundable.",
+    "CloudKit’s total liability in a year is limited to the amount you paid during that year.",
+    "By uploading, you give CloudKit a worldwide, royalty‑free license to use your content to run and improve the service."
+  ],
+  "risks": [
+    {
+      "category": "liability",
+      "severity": "high",
+      "clauseQuote": "In no event shall CloudKit be liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of profits, data or goodwill, even if advised of the possibility of such damages.",
+      "explanation": "CloudKit says it won’t have to pay you for many kinds of harm, even if they could have warned you about it.",
+      "grounded": true
+    },
+    {
+      "category": "liability",
+      "severity": "high",
+      "clauseQuote": "Our aggregate liability for all claims in any 12-month period shall not exceed the total fees paid by you in that period.",
+      "explanation": "The most you could ever get back from CloudKit in a year is the amount you paid them.",
+      "grounded": true
+    },
+    {
+      "category": "unbounded_changes",
+      "severity": "medium",
+      "clauseQuote": "We may modify these terms at any time by updating this page, and your continued use of the service constitutes acceptance of the modified terms.",
+      "explanation": "The company can change the rules whenever they want, and if you keep using the service you automatically agree to the new rules.",
+      "grounded": true
+    },
+    {
+      "category": "other",
+      "severity": "medium",
+      "clauseQuote": "You grant CloudKit a worldwide, royalty-free license to host, store, reproduce and display the content you upload, for the purpose of operating and improving the service.",
+      "explanation": "By using the service you let CloudKit use your uploaded content however they need to run and improve the service, without paying you.",
+      "grounded": true
+    },
+    {
+      "category": "cancellation",
+      "severity": "low",
+      "clauseQuote": "Either party may terminate this agreement for convenience with 30 days written notice. Upon termination we delete your data within 60 days, except where retention is required by law.",
+      "explanation": "Both you and CloudKit can end the agreement with a month’s notice, and they’ll erase your data after about two months.",
+      "grounded": true
+    },
+    {
+      "category": "other",
+      "severity": "low",
+      "clauseQuote": "Fees are non-refundable except where required by law.",
+      "explanation": "If you pay for the service you generally can’t get your money back.",
+      "grounded": true
+    }
+  ],
+  "notMentioned": [
+    "data_sharing",
+    "auto_renewal",
+    "arbitration"
+  ],
+  "chunkCount": 1,
+  "failedChunks": 0,
+  "droppedUngrounded": 0,
+  "fetchedChars": 1116,
+  "mergedLocally": false,
+  "disclaimer": "This is an automated plain-language summary, not legal advice. Check the original document for anything that matters to you."
+}
