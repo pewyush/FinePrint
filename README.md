@@ -78,9 +78,9 @@ There is intentionally **no unit-test suite** in this repo (per project decision
 
 | Enrollment | Name | Main task |
 |---|---|---|
-| S24CSEU____ | [member 1] | Prompt design (P1/P2, versions v1–v3) |
-| S24CSEU____ | [member 2] | Extension engineering (scanner, side panel, options) |
-| S24CSEU____ | [member 3] | Pipeline & evaluation (chunker, grounding, runner, test set) |
+| S24CSEU1520 | Anidh Kaushik | Prompt design (P1/P2, versions v1–v3) |
+| S24CSEU1488| Harshit Batra | Extension engineering (scanner, side panel, options) |
+| S24CSEU1505| Piyush Khulbey | Pipeline & evaluation (chunker, grounding, runner, test set) |
 
 **Links:** Prototype: [Q11] · Repository: [Q12] · Reel: [Q13] (90–150 s)
 
