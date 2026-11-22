@@ -1,0 +1,17 @@
+{
+  "name": "fineprint-extension",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "FinePrint — plain-language T&C and privacy policy reader (Chrome MV3, TypeScript)",
+  "scripts": {
+    "build": "tsc -p tsconfig.json && node build/postbuild.mjs",
+    "watch": "tsc -w -p tsconfig.json",
+    "demo": "npm run build && node dist/tools/run-pipeline.js"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.287",
+    "@types/node": "^26.6.6",
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "FinePrint",
+  "version": "0.2.0",
+  "description": "Reads a site's footer, pulls its Terms & Conditions / Privacy Policy, and explains them in plain language with cited risk flags.",
+  "minimum_chrome_version": "114",
+  "permissions": ["sidePanel", "storage", "activeTab"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "background": {
+    "service_worker": "dist/background/main.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["dist/content-bootstrap.js"],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "options_page": "options.html",
+  "action": {
+    "default_title": "FinePrint — explain this page's T&Cs"
+  },
+  "icons": {
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["dist/content/*", "dist/shared/*"],
+      "matches": ["http://*/*", "https://*/*"]
+    }
+  ]
+}

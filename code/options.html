@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FinePrint — Settings</title>
+    <link rel="stylesheet" href="styles/app.css" />
+  </head>
+  <body class="options">
+    <header class="topbar">
+      <span class="brand">Fine<span>Print</span></span>
+    </header>
+    <main>
+      <h1>LLM settings</h1>
+      <p class="muted">
+        FinePrint talks to any LiteLLM / OpenAI-compatible endpoint. The key below is stored
+        only in this browser (chrome.storage.local) and is never written to the repository.
+      </p>
+      <form id="options-form"></form>
+      <div id="status"></div>
+      <p class="muted foot-note">
+        Tip for the demo: run <code>npm run demo</code> inside <code>code/</code> with
+        <code>LITELLM_API_KEY</code> set to regenerate the saved outputs in
+        <code>test-data/outputs/</code>.
+      </p>
+    </main>
+    <script type="module" src="dist/options/main.js"></script>
+  </body>
+</html>
